@@ -1,0 +1,39 @@
+table{
+    width: 60%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 200px;
+    margin-left: 200px;
+    border: solid 1px;
+    padding-bottom: 0px;
+}
+caption{
+    text-size-adjust: 25px;
+    font-weight: bold;
+    caption-side: top;
+    text-align: center;
+}
+tr{
+    background-color: rgb(0, 255, 21);
+    padding: 10px;
+    border: solid;
+}
+th{
+    background-color: lightblue;
+    padding: 10px;
+    border: solid;
+    
+}
+tfoot{
+    text-align: center;
+    
+}
+td{
+    border: solid;
+    text-align: center;
+}
+
+ hr{
+     padding: 15px;
+ }   
+
